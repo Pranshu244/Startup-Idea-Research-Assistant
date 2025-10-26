@@ -4,4 +4,4 @@ A multilingual AI‑powered chatbot that helps you analyze and refine your start
 
 1. Open the foler "Chatbot_Code".
 2. Click  on "Startup-Idea-Research-Assistant.ipynb".
-3. 
+3. Click on "Open in Colab".
