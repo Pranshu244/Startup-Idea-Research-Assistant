@@ -10,7 +10,7 @@ A multilingual AI‑powered chatbot that helps you analyze and refine your start
 6. Insert your Gemini API key in **Cell 6** at the designated location.  
    - You can generate an API key at [Google AI Studio](https://aistudio.google.com).  
 7. Enter your PDF file name in **Cell 7** (e.g., `AI_Startup_Document.pdf`).  
-8. Click on **“Run all”** to execute the notebook.  
+8. Click on **“Run all”** to execute the notebook and click **"Run anyway"**.  
 9. Wait a few minutes for all cells to finish running.  
 10. If you see a warning like this, press **Cancel**:  
     ```
